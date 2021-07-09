@@ -257,6 +257,10 @@ background-color :darkblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(43, 47, 48);
     word-wrap: break-word;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-bottom: none;
+    border-radius: 15px;
     
 
     
