@@ -480,15 +480,24 @@ background-color :darkblue;
 
     }
 
+    #cont {
+       border-style: solid;
+        border-bottom: none;
+        border-radius: 15px;
+        width: 150px;
+        height: 100px;
+       
+    }
     #topc {
         
         position:absolute;
-    top: 1200px;
+    top: 1290px;
     left: 100px;
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(43, 47, 48);
     word-wrap: break-word;
+   
     
 
     
